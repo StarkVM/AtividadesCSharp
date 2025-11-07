@@ -4,13 +4,13 @@ using System.Linq;
 
 var fruits = new List<string>();
 
-fruits.Add("🍒Ce");
-fruits.Add("🍍Ab");
-fruits.Add("🍏Ma");
-fruits.Add("🍑Pe");
-fruits.Add("🫐Mi");
-fruits.Add("🥥Co");
-fruits.Add("🍌Ba");
+fruits.Add("🍒");
+fruits.Add("🍍");
+fruits.Add("🍏");
+fruits.Add("🍑");
+fruits.Add("🫐");
+fruits.Add("🥥");
+fruits.Add("🍌");
 
 //1- pegar o primeiro elemento
 
@@ -23,11 +23,11 @@ fruits.Add("🍌Ba");
 
 //2- verificar se o elemento existe
 
-//Console.WriteLine(fruits.Any(x => x == "🍒Ce"));
+//Console.WriteLine(fruits.Any(x => x == "🍒"));
 
 //3- verifica se todos elementos de uma lista sao do mesmo tipo
 
-//Console.WriteLine(fruits.All(x => x == "🍒Ce"));
+//Console.WriteLine(fruits.All(x => x == "🍒"));
 
 //4- contar quantos elementos tem na lista
 
@@ -35,4 +35,8 @@ fruits.Add("🍌Ba");
 
 //ou para contar quantos de um elemento especifico
 
-Console.WriteLine(fruits.Count(x=> x == "🍒Ce"));
+//Console.WriteLine(fruits.Count(x=> x == "🍒"));
+
+//5- para procurar por indice\
+
+Console.WriteLine(fruits.ElementAt(5));
