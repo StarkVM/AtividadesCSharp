@@ -1,0 +1,14 @@
+C:\Projetos C#\Linq2\bin\Debug\net10.0\Linq2.exe
+C:\Projetos C#\Linq2\bin\Debug\net10.0\Linq2.deps.json
+C:\Projetos C#\Linq2\bin\Debug\net10.0\Linq2.runtimeconfig.json
+C:\Projetos C#\Linq2\bin\Debug\net10.0\Linq2.dll
+C:\Projetos C#\Linq2\bin\Debug\net10.0\Linq2.pdb
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.AssemblyInfoInputs.cache
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.AssemblyInfo.cs
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.dll
+C:\Projetos C#\Linq2\obj\Debug\net10.0\refint\Linq2.dll
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.pdb
+C:\Projetos C#\Linq2\obj\Debug\net10.0\Linq2.genruntimeconfig.cache
+C:\Projetos C#\Linq2\obj\Debug\net10.0\ref\Linq2.dll
