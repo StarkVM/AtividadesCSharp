@@ -39,4 +39,47 @@ fruits.Add("🍌");
 
 //5- para procurar por indice\
 
-Console.WriteLine(fruits.ElementAt(5));
+//Console.WriteLine(fruits.ElementAt(5));
+
+/*6- para pegar uma determinada quantidade
+
+//fruits.Take(3); //pegar os 3 primeiros
+
+//fruits.Take(^3..); //pegar os 3 ultimos
+
+//fruits.Take(0..3); //pegar do 1 ao 3
+
+foreach (var frutas in fruits.Take(^3..).Reverse()) //exibe de tras pra frente
+{
+    Console.WriteLine(frutas);
+}
+*/
+
+/*//7- Where
+
+var frutas = fruits.Where(x => x == "🍒" || x == "🫐"  );
+
+foreach (var fruta in frutas)
+{
+    Console.WriteLine(fruta);
+}*/
+
+//8- single //so funciona se tiver apenas um do elmento procurado
+
+//Console.WriteLine(fruits.Single()); //erro
+
+//Console.WriteLine(fruits.Single(x => x == "🍒")); //certo
+
+//para usalo de forma segura, usar o try catch
+
+//9- para pegar o ultimo elemento
+//Console.WriteLine(fruits.Last());
+
+//Console.WriteLine(fruits.Last(x=> x == "🍒"));
+
+//10 - Skip, para pular itens
+
+foreach (var fruit in fruits.Skip(3).Take(3)) //pula 3 e pega 3
+{
+    Console.WriteLine(fruit);
+}
