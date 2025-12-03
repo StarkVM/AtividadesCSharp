@@ -79,7 +79,7 @@ foreach (var fruta in frutas)
 
 //10 - Skip, para pular itens
 
-foreach (var fruit in fruits.Skip(3).Take(3)) //pula 3 e pega 3
-{
-    Console.WriteLine(fruit);
-}
+// foreach (var fruit in fruits.Skip(3).Take(3)) //pula 3 e pega 3
+// {
+//     Console.WriteLine(fruit);
+// }
