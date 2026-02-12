@@ -1,0 +1,14 @@
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\bin\Debug\net8.0\Atividade1Omar.exe
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\bin\Debug\net8.0\Atividade1Omar.deps.json
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\bin\Debug\net8.0\Atividade1Omar.runtimeconfig.json
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\bin\Debug\net8.0\Atividade1Omar.dll
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\bin\Debug\net8.0\Atividade1Omar.pdb
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.AssemblyInfoInputs.cache
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.AssemblyInfo.cs
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.csproj.CoreCompileInputs.cache
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.dll
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\refint\Atividade1Omar.dll
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.pdb
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\Atividade1Omar.genruntimeconfig.cache
+C:\Projetos C#\AtividadesSenai\Atividade1Omar\obj\Debug\net8.0\ref\Atividade1Omar.dll

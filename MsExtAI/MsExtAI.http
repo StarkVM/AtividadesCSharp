@@ -1,0 +1,6 @@
+@MsExtAI_HostAddress = http://localhost:5022
+
+GET {{MsExtAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
