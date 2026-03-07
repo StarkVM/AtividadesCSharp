@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1xz54wedL4=",
+  "success": true,
+  "projectFilePath": "D:\\DDS Vitor\\C#\\Omar1\\Aula1-Forms\\Aula1-Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tecdev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\tecdev\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\tecdev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\tecdev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
