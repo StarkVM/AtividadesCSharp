@@ -1,7 +1,0 @@
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\bin\Debug\ConceitosPOO-Aula2.exe.config
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\bin\Debug\ConceitosPOO-Aula2.exe
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\bin\Debug\ConceitosPOO-Aula2.pdb
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\obj\Debug\ConceitosPOO-Aula2.csproj.AssemblyReference.cache
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\obj\Debug\ConceitosPOO-Aula2.csproj.CoreCompileInputs.cache
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\obj\Debug\ConceitosPOO-Aula2.exe
-D:\DDS Vitor\C#\Omar1\ConceitosPOO-Aula2\obj\Debug\ConceitosPOO-Aula2.pdb
