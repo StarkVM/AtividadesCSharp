@@ -1,0 +1,17 @@
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\bin\Debug\net8.0-windows\Aula1-Forms.exe
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\bin\Debug\net8.0-windows\Aula1-Forms.deps.json
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\bin\Debug\net8.0-windows\Aula1-Forms.runtimeconfig.json
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\bin\Debug\net8.0-windows\Aula1-Forms.dll
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\bin\Debug\net8.0-windows\Aula1-Forms.pdb
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.csproj.GenerateResource.cache
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.AssemblyInfoInputs.cache
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.AssemblyInfo.cs
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.csproj.CoreCompileInputs.cache
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.dll
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\refint\Aula1-Forms.dll
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.pdb
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1-Forms.genruntimeconfig.cache
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\ref\Aula1-Forms.dll
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1_Forms.formAula01.resources
+D:\DDS Vitor\C#\Omar1\Aula1-Forms\obj\Debug\net8.0-windows\Aula1_Forms.FormCalcular.resources

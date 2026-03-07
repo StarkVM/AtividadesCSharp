@@ -1,0 +1,14 @@
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.AssemblyInfoInputs.cache
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.AssemblyInfo.cs
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.csproj.CoreCompileInputs.cache
+C:\Projetos C#\TesteConstructors\bin\Debug\net9.0\TesteConstructors.exe
+C:\Projetos C#\TesteConstructors\bin\Debug\net9.0\TesteConstructors.deps.json
+C:\Projetos C#\TesteConstructors\bin\Debug\net9.0\TesteConstructors.runtimeconfig.json
+C:\Projetos C#\TesteConstructors\bin\Debug\net9.0\TesteConstructors.dll
+C:\Projetos C#\TesteConstructors\bin\Debug\net9.0\TesteConstructors.pdb
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.dll
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\refint\TesteConstructors.dll
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.pdb
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\TesteConstructors.genruntimeconfig.cache
+C:\Projetos C#\TesteConstructors\obj\Debug\net9.0\ref\TesteConstructors.dll
