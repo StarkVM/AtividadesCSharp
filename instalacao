@@ -1,0 +1,16 @@
+Invoke-WebRequest https://dot.net/v1/ dotnet-install.ps1 -OutFile dotnet-install.ps1
+
+Set-Execution Policy -Scope Process Execution Policy Bypass
+
+.\dotnet-install.ps1 -InstallDir "$env:USERPROFILE\.dotnet"
+
+$env:PATH += "$env:USERPROFILE\.dotnet"[Environment]::SetEnvironmentVariable(
+"PATH",
+$env:PATH + ";$env:USERPROFILE\.dotnet",
+"User"
+)
+
+
+
+
+.\dotnet-install.ps1 -Version 8.0.412 InstallDir "$env:USERPROFILE\.dotnet"
