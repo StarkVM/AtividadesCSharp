@@ -1,7 +1,0 @@
-C:\DDS Vitor\C#\Omar1\Estruturas\bin\Debug\Estruturas.exe.config
-C:\DDS Vitor\C#\Omar1\Estruturas\bin\Debug\Estruturas.exe
-C:\DDS Vitor\C#\Omar1\Estruturas\bin\Debug\Estruturas.pdb
-C:\DDS Vitor\C#\Omar1\Estruturas\obj\Debug\Estruturas.csproj.AssemblyReference.cache
-C:\DDS Vitor\C#\Omar1\Estruturas\obj\Debug\Estruturas.csproj.CoreCompileInputs.cache
-C:\DDS Vitor\C#\Omar1\Estruturas\obj\Debug\Estruturas.exe
-C:\DDS Vitor\C#\Omar1\Estruturas\obj\Debug\Estruturas.pdb
