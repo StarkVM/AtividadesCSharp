@@ -1,0 +1,10 @@
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\bin\Debug\PizzariaAulaForms.exe.config
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\bin\Debug\PizzariaAulaForms.exe
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\bin\Debug\PizzariaAulaForms.pdb
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.csproj.AssemblyReference.cache
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.Form1.resources
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.Properties.Resources.resources
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.csproj.GenerateResource.cache
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.csproj.CoreCompileInputs.cache
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.exe
+C:\DDS Vitor\C#\Omar1\PizzariaAulaForms\obj\Debug\PizzariaAulaForms.pdb
