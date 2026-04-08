@@ -1,0 +1,10 @@
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\bin\Debug\AulaEstruturaForms.exe.config
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\bin\Debug\AulaEstruturaForms.exe
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\bin\Debug\AulaEstruturaForms.pdb
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.csproj.AssemblyReference.cache
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.Form1.resources
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.Properties.Resources.resources
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.csproj.GenerateResource.cache
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.csproj.CoreCompileInputs.cache
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.exe
+C:\DDS Vitor\C#\Omar1\AulaEstruturaForms\obj\Debug\AulaEstruturaForms.pdb
