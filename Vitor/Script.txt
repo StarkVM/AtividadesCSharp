@@ -1,0 +1,56 @@
+CREATE DATABASE loja_celulares_db;
+
+USE loja_celulares_db;
+
+CREATE TABLE usuarios(
+id INT PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(100) NOT NULL,
+login VARCHAR(100) NOT NULL UNIQUE,
+senha VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE celulares
+(
+id INT PRIMARY KEY AUTO_INCREMENT,
+tipo VARCHAR(100) NOT NULL,
+tamanho_cm VARCHAR(100) NOT NULL,
+cor VARCHAR(100) NOT NULL,
+marca VARCHAR(100) NOT NULL,
+valor DECIMAL(10,2) NOT NULL,
+quantidade_estoque INT NOT NULL,
+quantidade_minima INT NOT NULL
+);
+
+CREATE TABLE movimentacoes(
+id INT PRIMARY KEY AUTO_INCREMENT,
+id_celular INT NOT NULL,
+id_usuario INT NOT NULL,
+quantidade INT NOT NULL,
+tipo VARCHAR(100) NOT NULL,
+data_movimentacao DATE NOT NULL,
+FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
+FOREIGN KEY (id_celular) REFERENCES celulares(id)
+);
+
+INSERT INTO usuarios (nome, login, senha) VALUES 
+('Vitor', 'vitor123', "$2a$12$xtBUCEjazCXTWE8IpnLJ3eeAlWHL5nOLPmTXfaQnN5ZqgPCL8BI7e"),
+('Maria', 'maria123', "$2a$12$Gq6GUJuXCVhBDCm3Y85O4.izpVVd.L6MW56hrNBIo2yuIt1uNGkP6"),
+('Joao', 'joao123', "$2a$12$gGSKbX3NSGAgdGkWGZ7s9eENNM45o8O8WEw9XoVVA/xr7qZm2d7pu");
+
+INSERT INTO celulares (tipo ,tamanho_cm, cor, marca, valor, quantidade_estoque, quantidade_minima) VALUES 
+("Botao", "10cm X 15cm","Preto", "Nokia", 100.40, 100, 10),
+("Tocar", "30cm X 10cm","Azul", "Samsung", 1000.40, 200, 20),
+("Tocar", "20cm X 20cm","Rosa", "Apple", 10000.40, 300, 50);
+
+INSERT INTO movimentacoes(id_celular, id_usuario, quantidade ,tipo, data_movimentacao) VALUES
+(1,1 , 1,'Saida', '2026-09-02');
+UPDATE celulares SET quantidade_estoque = 99 WHERE id = 1;
+
+INSERT INTO movimentacoes(id_celular, id_usuario, quantidade ,tipo, data_movimentacao) VALUES
+(2,2, 2,'Entrada', '2026-10-02');
+UPDATE celulares SET quantidade_estoque = 202 WHERE id = 2;
+
+INSERT INTO movimentacoes(id_celular, id_usuario, quantidade ,tipo, data_movimentacao) VALUES
+(3,3,3 ,'Entrada', '2026-11-02');
+UPDATE celulares SET quantidade_estoque = 303 WHERE id = 3;
+
