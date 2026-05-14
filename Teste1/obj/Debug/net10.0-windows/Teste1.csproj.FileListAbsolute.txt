@@ -1,0 +1,16 @@
+C:\DDS Vitor\C#\Barros\Teste1\bin\Debug\net10.0-windows\Teste1.exe
+C:\DDS Vitor\C#\Barros\Teste1\bin\Debug\net10.0-windows\Teste1.deps.json
+C:\DDS Vitor\C#\Barros\Teste1\bin\Debug\net10.0-windows\Teste1.runtimeconfig.json
+C:\DDS Vitor\C#\Barros\Teste1\bin\Debug\net10.0-windows\Teste1.dll
+C:\DDS Vitor\C#\Barros\Teste1\bin\Debug\net10.0-windows\Teste1.pdb
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.Form1.resources
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.csproj.GenerateResource.cache
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.AssemblyInfoInputs.cache
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.AssemblyInfo.cs
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.csproj.CoreCompileInputs.cache
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.dll
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\refint\Teste1.dll
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.pdb
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\Teste1.genruntimeconfig.cache
+C:\DDS Vitor\C#\Barros\Teste1\obj\Debug\net10.0-windows\ref\Teste1.dll
